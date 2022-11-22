@@ -1,1 +1,3 @@
 # Rough-Heston
+
+$\sigma$
